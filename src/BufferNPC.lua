@@ -13,8 +13,8 @@ local BUFF_IDS = {
 	  48470,
 	    48074,
 	      48162,
-		    43002,
-		      48170,
+		43002,
+		  48170,
               -- u can also declare more buffs if you want to... my buffer is not limited to 6 buffs only!!! =)
 		  
 }
